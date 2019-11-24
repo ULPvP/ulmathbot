@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const fs = require("fs");
 const config = require("./config.json");
 
-client.login(config.token);
+client.login(process.env.BOT_TOKEN);
 
 client.on("ready", () => {
   console.log("Joined all available servers.\nhttps://discordapp.com/oauth2/authorize?client_id=" + config.id + "&scope=bot");
