@@ -59,7 +59,7 @@ client.on("message", (message) => {
 ///////////////////
 // Note: ModManager and and a few related aspects have come from https://github.com/zajrik/modbot
 
-import { Command, GuildStorage, Time, Logger, logger } from 'yamdbf';
+import { Command, GuildStorage, Time, Logger, logger } from 'ulbot';
 import { Collection, GuildMember, Message, RichEmbed, Role, TextChannel, User } from 'discord.js';
 import Constants from '../../util/Constants';
 import * as fuzzy from 'fuzzy';
