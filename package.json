@@ -1,9 +1,9 @@
 {
-  "name": "grammar-nazi-bot",
+  "name": "ulbot",
   "version": "0.6.9",
-  "description": "A Grammar Nazi bot",
+  "description": "Created By UL",
   "main": "bot.js",
-  "author": "Jayson Saavedra",
+  "author": "ULOldBear",
   "scripts": {
     "start": "node bot.js"
   },
