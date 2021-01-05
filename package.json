@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.274.1",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "discord.js": "^11.3.2",
     "mathjs": "^6.2.5",
     "mongodb": "^3.3.4",
